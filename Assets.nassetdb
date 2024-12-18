@@ -1,0 +1,1712 @@
+{
+    "0193b238-3fcf-7fb9-61ae-e182534da265": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "0193b238-3fef-7985-1457-b5f32d013b25",
+            "0193b238-3ffe-76b7-a678-2a51feddb287",
+            "0193b238-3ffe-7399-0ac4-2503da6d81e7",
+            "0193b238-3ffe-7b9c-b6ae-0c45189b75e3",
+            "0193b238-3ffe-778a-58db-eb50feba434f",
+            "0193b238-3ffe-7383-e8e3-ccc2e05f5617",
+            "0193b238-3ffe-718a-dd24-0c83b1b17487",
+            "0193b238-3ffe-7f9a-129b-6f7e0c126723",
+            "0193b238-3ffe-78a0-4ab5-cafbd76f8c89",
+            "0193b238-3ffe-72aa-b94e-0e5fbc75ab5e",
+            "0193b238-3ffe-798e-8b60-c573c1e603fa",
+            "0193b238-3fff-7da4-ac7d-523344426523",
+            "0193b238-3fff-73ad-704a-01354ae141c5",
+            "0193b238-3fff-71b9-f4ae-4e175886e28c",
+            "0193b238-3fff-778d-bb5c-d3ebd7fde0f2",
+            "0193b238-3fff-78b9-aa13-3d5439d2a0eb",
+            "0193b238-3fff-75a9-db2c-3560f7045e0a",
+            "0193b238-3fff-7780-73b3-b3dce2cb8094",
+            "0193b238-3fff-7a9a-5b9d-5f874647bf96",
+            "0193b238-3fff-7fb0-0614-c22145c20376",
+            "0193b238-3fff-719f-5b12-adceb0a1d3fd",
+            "0193b238-4000-7f89-7f37-444813c18542",
+            "0193b238-4000-7c89-c22d-a028e96a95cc",
+            "0193b238-4000-74b0-d488-6d871691cf1c",
+            "0193b238-4000-7bbd-49bc-1a9f4c07c514",
+            "0193b238-4000-7eb9-de38-47e0c05b0193",
+            "0193b238-4000-7c8d-343e-93dd0b87faf5",
+            "0193b238-4000-7792-0f48-d11cb9e2f3ed",
+            "0193b238-4000-7884-6e5e-25e9a6091fd2",
+            "0193b238-4000-7e87-061e-e9abb52bcc1c",
+            "0193b238-4000-7da8-fa6b-debd3c9bf72f",
+            "0193b238-4000-7b89-174f-15dec3b9eed1",
+            "0193b238-4000-70a8-73a6-ed141ea68c45",
+            "0193b238-4000-7c87-960a-8fde9d5f4a9a",
+            "0193b238-4000-7688-31a2-1cf0c62fc83d",
+            "0193b238-4001-7894-9b32-97fed211fe8c",
+            "0193b238-4001-7d9a-0c6e-678910dc9e64",
+            "0193b238-4001-7e95-cddd-41bf88869445",
+            "0193b238-4001-78b6-d227-69a12664c863",
+            "0193b238-4001-7ea8-324a-eaa2eb20709d",
+            "0193b238-4001-7bbb-3f89-ee1b14e73f45",
+            "0193b238-4001-7ba6-eea0-0f54bd21c24e",
+            "0193b238-4001-7097-c783-bbd6d5da38bd",
+            "0193b238-4001-79bf-6c46-4527a30a0acd",
+            "0193b238-4001-7e9c-2644-9042cf63f543",
+            "0193b238-4001-79b6-2ed1-93f19f54e074",
+            "0193b238-4001-7181-d52a-6f0fe3e9a351",
+            "0193b238-4001-7c84-c460-582f8cf67f85",
+            "0193b238-4001-7fa5-9a3a-2690c3e1e2c7",
+            "0193b238-4002-778f-26ad-d1808185474f",
+            "0193b238-4002-7baa-369f-e517baaafe7f",
+            "0193b238-4002-7fa8-140e-af96e8177596",
+            "0193b238-4002-7eb1-ee30-5e39cce35c5f",
+            "0193b238-4002-71ad-9700-f63afc85b93b",
+            "0193b238-4002-749d-a2bf-66d7c6d06d75",
+            "0193b238-4002-71b7-deee-fc4a8fb25e01",
+            "0193b238-4002-7d8f-0d5d-364807ed5c10",
+            "0193b238-4002-7287-53a7-3f1cb8c5f4cb",
+            "0193b238-4002-7dac-e50d-758dcb95a80f",
+            "0193b238-4002-7389-47ae-15a0f12a6ee2",
+            "0193b238-4002-7d92-e4bf-e7cd64586d83",
+            "0193b238-4002-7e8e-5664-f29f585b3423",
+            "0193b238-4002-7193-633f-b05e4634a26f",
+            "0193b238-4002-7e81-dc68-37549cec6b78"
+        ]
+    },
+    "0193b238-3fef-7985-1457-b5f32d013b25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fef-7bb9-c638-e8018dd346d0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fef-7999-407c-ea50fa8b36a9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Space Bits.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "0193b238-3ffd-7e80-86f1-abec0c7e6903"
+        ]
+    },
+    "0193b238-3fef-7bb9-c638-e8018dd346d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Body.mesh.nasset/Space Truck Body Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffd-7e80-86f1-abec0c7e6903": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/Textures/T_Space_Bits_D.tex.nasset"
+    },
+    "0193b238-3ffe-70a7-af37-eb28465a8cce": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Large Wheel.mesh.nasset/Space Truck Large Wheel Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-718a-dd24-0c83b1b17487": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-7caa-3adf-757054fa1c74",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-71b5-5a7f-aa80fc6b6793": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module D.mesh.nasset/Base Module D Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-72aa-b94e-0e5fbc75ab5e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module D.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-71b5-5a7f-aa80fc6b6793",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7383-e8e3-ccc2e05f5617": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Trailer Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-7b88-9acc-338729834099",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7399-0ac4-2503da6d81e7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Large Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-7da7-3bd7-d1698e72a49f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-74a8-8998-3e9727141a57": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module E.mesh.nasset/Base Module E Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-74af-3668-98715d79788f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Trailer Body.mesh.nasset/Space Truck Trailer Body Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-76b7-a678-2a51feddb287": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-79be-dae7-662781804eca",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-778a-58db-eb50feba434f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Trailer Body.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-74af-3668-98715d79788f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-78a0-4ab5-cafbd76f8c89": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-7e83-ad67-25fe99d03812",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-798e-8b60-c573c1e603fa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module E.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-74a8-8998-3e9727141a57",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-79be-dae7-662781804eca": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Wheel.mesh.nasset/Space Truck Wheel Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7a89-a1af-a2e2614a213e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module B.mesh.nasset/Base Module B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7b88-9acc-338729834099": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Trailer Wheel.mesh.nasset/Space Truck Trailer Wheel Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7b9c-b6ae-0c45189b75e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Large Wheel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-70a7-af37-eb28465a8cce",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7caa-3adf-757054fa1c74": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module A.mesh.nasset/Base Module A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7da7-3bd7-d1698e72a49f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Space Truck Large Body.mesh.nasset/Space Truck Large Body Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7e83-ad67-25fe99d03812": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module C.mesh.nasset/Base Module C Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3ffe-7f9a-129b-6f7e0c126723": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3ffe-7a89-a1af-a2e2614a213e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7090-6833-48be4a38e5c7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module Garage Door.mesh.nasset/Base Module Garage Door Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-718e-0cc4-a0b089c53aab": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A Stacked.mesh.nasset/Cargo A Stacked Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-719f-5b12-adceb0a1d3fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7396-12fc-1926558673a6",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-71b9-f4ae-4e175886e28c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7290-dfc8-c9eff2eec018",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7290-dfc8-c9eff2eec018": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A.mesh.nasset/Cargo A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-73ad-704a-01354ae141c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module Garage Door.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7090-6833-48be4a38e5c7",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7589-758b-014809e14212": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot A.mesh.nasset/Cargo Depot A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-75a9-db2c-3560f7045e0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7ba9-e21a-e2ce34ed5da9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7780-73b3-b3dce2cb8094": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B Packed.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-79b2-8edd-41d2c0ac0a7c",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-778d-bb5c-d3ebd7fde0f2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A Packed.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7e86-c4a9-0d6f832ec669",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-78b9-aa13-3d5439d2a0eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A Stacked.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-718e-0cc4-a0b089c53aab",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-79b2-8edd-41d2c0ac0a7c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B Packed.mesh.nasset/Cargo B Packed Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7a9a-5b9d-5f874647bf96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B Stacked.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7b8a-2c16-51b30dac4ed1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7b8a-2c16-51b30dac4ed1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B Stacked.mesh.nasset/Cargo B Stacked Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7b91-d6e7-fa3fc51eb4cf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module Garage.mesh.nasset/Base Module Garage Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7ba9-e21a-e2ce34ed5da9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo B.mesh.nasset/Cargo B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7da4-ac7d-523344426523": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Base Module Garage.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7b91-d6e7-fa3fc51eb4cf",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7e86-c4a9-0d6f832ec669": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo A Packed.mesh.nasset/Cargo A Packed Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-3fff-7fb0-0614-c22145c20376": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-3fff-7589-758b-014809e14212",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-70a8-73a6-ed141ea68c45": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Landing Pad Small.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7e8b-9258-7e50880c2856",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-70b7-9c73-2b877e9de486": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander A.mesh.nasset/Lander A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-70b8-ed78-d37eefd05b7e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers D.mesh.nasset/Containers D Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-71b3-0c9a-edfe589e161d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers C.mesh.nasset/Containers C Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7396-12fc-1926558673a6": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot B.mesh.nasset/Cargo Depot B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-73ac-0793-b8e79f0da07d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander Base.mesh.nasset/Lander Base Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-73b4-a547-5d29e3fb1dfa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander B.mesh.nasset/Lander B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-74b0-d488-6d871691cf1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7ea7-a56b-69c630851db8",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7688-31a2-1cf0c62fc83d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rock A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7d89-7e2f-ce212e717853",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-768f-9c1b-8a6d981f9c25": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers A.mesh.nasset/Containers A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7792-0f48-d11cb9e2f3ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Drill Structure.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7fa6-b62b-46b2876a55c0",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-779c-2c90-7427f6ec79a9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Drill Module.mesh.nasset/Drill Module Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7884-6e5e-25e9a6091fd2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-70b7-9c73-2b877e9de486",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7aab-1ddb-70320bbf1048": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Landing Pad Large.mesh.nasset/Landing Pad Large Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7b89-174f-15dec3b9eed1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Landing Pad Large.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7aab-1ddb-70320bbf1048",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7bbd-49bc-1a9f4c07c514": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-71b3-0c9a-edfe589e161d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7c87-960a-8fde9d5f4a9a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lights.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7c97-e4b5-b3ae30ecaafb",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7c89-c22d-a028e96a95cc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-768f-9c1b-8a6d981f9c25",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7c8d-343e-93dd0b87faf5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Drill Module.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-779c-2c90-7427f6ec79a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7c97-e4b5-b3ae30ecaafb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lights.mesh.nasset/Lights Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7da8-fa6b-debd3c9bf72f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander Base.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-73ac-0793-b8e79f0da07d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7e81-2eda-14c114da543a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot C.mesh.nasset/Cargo Depot C Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7e87-061e-e9abb52bcc1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Lander B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-73b4-a547-5d29e3fb1dfa",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7e8b-9258-7e50880c2856": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Landing Pad Small.mesh.nasset/Landing Pad Small Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7ea7-a56b-69c630851db8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers B.mesh.nasset/Containers B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7eb9-de38-47e0c05b0193": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Containers D.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-70b8-ed78-d37eefd05b7e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7f89-7f37-444813c18542": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Cargo Depot C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4000-7e81-2eda-14c114da543a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4000-7fa6-b62b-46b2876a55c0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Drill Structure.mesh.nasset/Drill Structure Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-708b-4135-8ad87fd516df": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7097-c783-bbd6d5da38bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Solar Panels.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-73b6-85da-95d92b722e2f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7180-2f27-89b2cfca4746": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo A.mesh.nasset/Roof Module Cargo A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7181-d52a-6f0fe3e9a351": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Low.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-779d-f939-de092c7fa378",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7195-a51a-37bf745f7dcf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Solar Panel.mesh.nasset/Solar Panel Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-73b6-85da-95d92b722e2f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Solar Panels.mesh.nasset/Roof Module Solar Panels Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7495-0a2b-4b48db4a1723": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Structure Low.mesh.nasset/Structure Low Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-779d-f939-de092c7fa378": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Low.mesh.nasset/Terrain Low Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7894-9b32-97fed211fe8c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rock B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7985-66a4-fbfed0663c17",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-78a6-caed-a76f38a1600d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rocks A.mesh.nasset/Rocks A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-78b6-d227-69a12664c863": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Base.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7fb3-b146-63c1b983d1d3",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-78b7-f18f-dc9b30b7d37a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rocks B.mesh.nasset/Rocks B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7985-66a4-fbfed0663c17": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rock B.mesh.nasset/Rock B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7998-eec5-9c4e8f447168": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Mining.mesh.nasset/Terrain Mining Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-79b6-2ed1-93f19f54e074": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Structure Tall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-708b-4135-8ad87fd516df",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-79bf-6c46-4527a30a0acd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Solar Panel.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7195-a51a-37bf745f7dcf",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7a84-0fc6-961feb1beab5": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo C.mesh.nasset/Roof Module Cargo C Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7ba6-eea0-0f54bd21c24e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo C.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7a84-0fc6-961feb1beab5",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7bbb-3f89-ee1b14e73f45": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7c9c-2883-464fa8b626e9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7c84-c460-582f8cf67f85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Low Curved.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7eb1-dfd5-f62134490e79",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7c9c-2883-464fa8b626e9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo B.mesh.nasset/Roof Module Cargo B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7d89-7e2f-ce212e717853": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rock A.mesh.nasset/Rock A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7d9a-0c6e-678910dc9e64": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rocks A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-78a6-caed-a76f38a1600d",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7e95-cddd-41bf88869445": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Rocks B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-78b7-f18f-dc9b30b7d37a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7e9c-2644-9042cf63f543": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Structure Low.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7495-0a2b-4b48db4a1723",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7ea8-324a-eaa2eb20709d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Cargo A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7180-2f27-89b2cfca4746",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7eb1-dfd5-f62134490e79": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Low Curved.mesh.nasset/Terrain Low Curved Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7fa5-9a3a-2690c3e1e2c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Mining.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4001-7998-eec5-9c4e8f447168",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4001-7fb3-b146-63c1b983d1d3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Roof Module Base.mesh.nasset/Roof Module Base Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7090-da66-d1a3e909f88f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope.mesh.nasset/Terrain Slope Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-70af-28bd-9b02fc2e88b1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Long A.mesh.nasset/Tunnel Diagonal Long A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7193-633f-b05e4634a26f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Tall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-779e-d988-15ce6ccd7194",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-71ad-9700-f63afc85b93b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Tall Curved.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7395-500c-3b83dc656161",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-71b7-deee-fc4a8fb25e01": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Long B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7d87-2d53-30dea0764825",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7284-1eac-e5c6faf3d810": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope Inner Corner.mesh.nasset/Terrain Slope Inner Corner Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7287-53a7-3f1cb8c5f4cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Short B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7ca5-9645-a7cf48f04ec1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7389-47ae-15a0f12a6ee2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Straight B.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7c93-9328-0f1451007c6e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7395-500c-3b83dc656161": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Tall Curved.mesh.nasset/Terrain Tall Curved Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-73b0-e374-2e4f54ae141b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Tall.mesh.nasset/Terrain Tall Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-749d-a2bf-66d7c6d06d75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Long A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-70af-28bd-9b02fc2e88b1",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-75a6-eb77-e12cf52891da": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Short A.mesh.nasset/Tunnel Diagonal Short A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-778f-26ad-d1808185474f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7090-da66-d1a3e909f88f",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-779e-d988-15ce6ccd7194": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Tall.mesh.nasset/Wind Turbine Tall Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-78b7-c60a-fccc1ccec36e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Low.mesh.nasset/Wind Turbine Low Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-78be-16e2-c1c8874a9108": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Tall Fan.mesh.nasset/Wind Turbine Tall Fan Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7995-1064-e7705a5c383a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope Outer Corner.mesh.nasset/Terrain Slope Outer Corner Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7a98-96f7-be2437ee9b12": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Low Fan.mesh.nasset/Wind Turbine Low Fan Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7baa-369f-e517baaafe7f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope Inner Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7284-1eac-e5c6faf3d810",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7bb4-a8c4-05eec24fd374": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Straight A.mesh.nasset/Tunnel Straight A Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7c93-9328-0f1451007c6e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Straight B.mesh.nasset/Tunnel Straight B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7ca5-9645-a7cf48f04ec1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Short B.mesh.nasset/Tunnel Diagonal Short B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7d87-2d53-30dea0764825": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Long B.mesh.nasset/Tunnel Diagonal Long B Space Bits.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7d8f-0d5d-364807ed5c10": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Diagonal Short A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-75a6-eb77-e12cf52891da",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7d92-e4bf-e7cd64586d83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Low.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-78b7-c60a-fccc1ccec36e",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7dac-e50d-758dcb95a80f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Tunnel Straight A.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7bb4-a8c4-05eec24fd374",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7e81-dc68-37549cec6b78": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Tall Fan.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-78be-16e2-c1c8874a9108",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7e8e-5664-f29f585b3423": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Wind Turbine Low Fan.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7a98-96f7-be2437ee9b12",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7eb1-ee30-5e39cce35c5f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Tall.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-73b0-e374-2e4f54ae141b",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193b238-4002-7fa8-140e-af96e8177596": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Space_Base_Kit.scene.nasset/Terrain Slope Outer Corner.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0193b238-3fef-7999-407c-ea50fa8b36a9",
+            "0193b238-4002-7995-1064-e7705a5c383a",
+            "dc7e2094-148c-438d-9b97-b6586e6e5f87"
+        ]
+    },
+    "0193dbce-fd6e-7195-abd2-e8b6094c5204": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Space_Race_Thumb.tex.nasset"
+    },
+    "0193dbce-fefc-7f96-52d9-90ea3c0c1b16": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "5491c055-b946-44e9-9323-8933e6840e59": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Space Race",
+        "thumbnail": "0193dbce-fd6e-7195-abd2-e8b6094c5204",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "c3dcddad-7eab-4100-9f94-220e58b60a9b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Space Race.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":2048.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[5.4105,-3.0759,3.5692],\"rotation\":[-30.0674,-0.0,53.0321]}"
+        }
+    },
+    "guid": "0193dbce-fefc-7f96-52d9-90ea3c0c1b16"
+}
